@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Watching Shiro Cope", // required by Discord API, not shown in the client
-        state: "It's the hard-knock life for shiro, It's the hard-knock life for shiro, having to cope everyday It's a Hard-knock Life",     // this is what people actually see
+        state: "It's the hard-knock life for shiro, It's the hard-knock life for shiro, having to cope everyday, every single day, It's a Hard-knock Life",     // this is what people actually see
         type: 2,               // Custom
       },
     ],
